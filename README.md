@@ -1,7 +1,7 @@
 # API de Bomberos
 
 ## Descripción
-Esta API es un intento de registrar los bomberos, que vehiculos, y rangos
+Esta API es un intento de registrar los bomberos, vehiculos, y rangos
 
 ## Base de Datos
 
