@@ -13,7 +13,7 @@ Ejemplo de configuración para una base de datos H2 en memoria:
 spring.application.name=backends2
 spring.datasource.url=jdbc:mysql://localhost:3306/ejercicios2bd?useSSL=false&serverTimezone=UTC
 spring.datasource.username=root
-spring.datasource.password=BejmJ0307!
+spring.datasource.password=********
 spring.jpa.hibernate.ddl-auto=update
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
